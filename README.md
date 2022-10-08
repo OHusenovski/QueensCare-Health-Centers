@@ -1,2 +1,2 @@
 # QueensCare-Health-Centers
-QueensCare Health Centers Website created with Wordpress
+QueensCare Health Centers website created with Wordpress
